@@ -15,7 +15,7 @@ Considering we only have 5 weeks (when writing this document) we are unlikely go
 but no fear, we will work on the most crucial components, such as:
 - A barel capable of holding nuts and nut loading capability.
 - A spring mechanism capable of launching nuts out of the barel.
-- A detection mechanism for detecting a face.
+- A detection mechanism for activating shooting mechanism.
 - A mechanism for automatically loading nuts into the barel.
 - A aiming mechanism for aiming the barel.
 
