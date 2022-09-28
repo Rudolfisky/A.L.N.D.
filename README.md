@@ -21,12 +21,16 @@ but no fear, we will work on the most crucial components, such as:
 
 
 ## Lo-Fi
-the Lo-Fi fase will include some testing  regarding user interaction. 
+The Lo-Fi fase will include some testing  regarding user interaction. 
 We need to figure out whether a button for firing the nuts or open mouth detection is better.
 
 ## Mid-Fi
+The Mid-Fi prototypes will mostly be used in order to combine new POC's together into the final project
 
 ## Hi-Fi
+The Highfigh aspact of this project will include some visual upgrades to make it look more like an actual product. 
+We are also planning on presenting it in the style of a Telsell product.
+That being said, we're also focusing on making the components work well together.
 
 # Planning
 
