@@ -7,28 +7,38 @@ Humans are lazy by design, so we decided to feed our sinfull desires by automati
 # Concept
 We are making a machine that can automatically. 
 shoot nuts over a distance into the users mouth. 
-We plan to make a a canon shaped deviuce fited with an autmatic nut feeding system. 
-The ALND will be able to detect a face, detect an open mouth, meausure the distance, and shoot a singular nut right on target.
+We plan to make a a canon shaped device fitted with an automatic nut feeding system. 
+The ALND will be able to detect a face, detect an open mouth, measure the distance, and shoot a singular nut right on target.
+
+# Requirements
+
+# Must
+
+# Should
+
+# Could
+
+# won't
 
 # Duo project components 
 Considering we only have 5 weeks (when writing this document) we are unlikely going to create a face tracking nut canon. 
 but no fear, we will work on the most crucial components, such as:
-- A barel capable of holding nuts and nut loading capability.
-- A spring mechanism capable of launching nuts out of the barel.
+- A barrel capable of holding nuts and nut loading capability.
+- A spring mechanism capable of launching nuts out of the barrel.
 - A detection mechanism for activating shooting mechanism.
-- A mechanism for automatically loading nuts into the barel.
-- A aiming mechanism for aiming the barel.
+- A mechanism for automatically loading nuts into the barrel.
+- A aiming mechanism for aiming the barrel.
 
 
 ## Lo-Fi
-The Lo-Fi fase will include some testing  regarding user interaction. 
+The Lo-Fi faze will include some testing  regarding user interaction. 
 We need to figure out whether a button for firing the nuts or open mouth detection is better.
 
 ## Mid-Fi
 The Mid-Fi prototypes will mostly be used in order to combine new POC's together into the final project
 
 ## Hi-Fi
-The Highfigh aspact of this project will include some visual upgrades to make it look more like an actual product. 
+The Hi-Fi aspect of this project will include some visual upgrades to make it look more like an actual product. 
 We are also planning on presenting it in the style of a Telsell product.
 That being said, we're also focusing on making the components work well together.
 
@@ -46,7 +56,7 @@ This week we'll spend on getting UI data using a Lo-Fi prototype, we will try to
 - Button activation or open mouth activation.
 - more test cases to come
 We'd also need to define what the prototype means to test and what we need
-also, we are going to work POC for barel mechanism.
+also, we are going to work POC for barrel mechanism.
 ## Week 4
 - POC for nut launching mechanism.
 - POC for launch activation (facial or button).
