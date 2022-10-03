@@ -2,7 +2,7 @@
 Automatic Long distance Nut Dispenser (ALND)
 
 # Vision
-Humans are lazy by design, so we decided to feed our sinfull desires by automating and 'simplifying' the process of eating nuts, borrelnootjes to be precise.
+Humans are lazy by design, so we decided to feed our sin full desires by automating and 'simplifying' the process of eating nuts, borrelnootjes to be precise.
 
 # Concept
 We are making a machine that can automatically. 
@@ -11,14 +11,24 @@ We plan to make a a canon shaped device fitted with an automatic nut feeding sys
 The ALND will be able to detect a face, detect an open mouth, measure the distance, and shoot a singular nut right on target.
 
 # Requirements
+- 
 
 # Must
+- Semi-auto shooting mechanism.
+- Shooting activation.
 
 # Should
+- Shooting distance control.
+- Target distance measurement.
 
 # Could
+- Automatic reloading mechanism.
+- Platform rotation (aiming).
+- Target acquisition system (face detection).
 
-# won't
+# Won't
+- Remove Herobrine.
+- make ALND platform moveable (like a tank or car).
 
 # Duo project components 
 Considering we only have 5 weeks (when writing this document) we are unlikely going to create a face tracking nut canon. 
