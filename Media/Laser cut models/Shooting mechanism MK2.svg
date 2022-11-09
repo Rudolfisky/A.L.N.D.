@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Shooting mechanism MK2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.7972783"
+     inkscape:cx="241.30599"
+     inkscape:cy="403.78535"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2505"
+       units="mm"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect15478"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0392427;stroke-opacity:1"
+       d="m 33.000358,37.00003 v 3.00033 h -3.000334 v 4.9997 h 3.000334 v 5.00021 h -3.000334 v 3.99975 h 3.000334 v 5.00022 h -3.000334 v 5.00021 h 3.000334 v 2.99981 h 4.99969 v -2.99981 h 5.00022 v 2.99981 h 4.99969 v -2.99981 h 5.00021 v 2.99981 h 5.00021 v -2.99981 h 4.9997 v 2.99981 h 5.00021 v -2.99981 h 4.9997 v 2.99981 h 5.00021 v -2.99981 h 4.99969 v 2.99981 h 5.00021 v -2.99981 h 5.00021 v 2.99981 h 4.9997 v -2.99981 h 5.000212 v 2.99981 h 4.9997 v -2.99981 h 2.00039 V 40.00036 h -2.00039 v -3.00033 h -4.9997 v 3.00033 h -5.000212 v -3.00033 h -4.9997 v 3.00033 h -5.00021 v -3.00033 h -5.00021 v 3.00033 h -4.99969 v -3.00033 h -5.00021 v 3.00033 h -4.9997 v -3.00033 h -5.00021 v 3.00033 h -4.9997 v -3.00033 h -5.00021 v 3.00033 h -5.00021 v -3.00033 h -4.99969 v 3.00033 h -5.00022 v -3.00033 z" />
+    <path
+       id="rect15478-7"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0392427;stroke-opacity:1"
+       d="m 33.000358,5 v 3.000333 h -3.000334 v 4.999695 h 3.000334 v 5.000212 h -3.000334 v 3.999756 h 3.000334 v 5.000211 h -3.000334 v 5.000212 h 3.000334 v 2.999821 h 4.99969 v -2.999821 h 5.00022 v 2.999821 h 4.99969 v -2.999821 h 5.00021 v 2.999821 h 5.00021 v -2.999821 h 4.9997 v 2.999821 h 5.00021 v -2.999821 h 4.9997 v 2.999821 h 5.00021 v -2.999821 h 4.99969 v 2.999821 h 5.00021 v -2.999821 h 5.00021 v 2.999821 h 4.9997 v -2.999821 h 5.000212 v 2.999821 h 4.9997 v -2.999821 h 2.00039 V 8.000333 h -2.00039 V 5 h -4.9997 V 8.000333 H 98.000008 V 5 h -4.9997 v 3.000333 h -5.00021 V 5 h -5.00021 v 3.000333 h -4.99969 V 5 h -5.00021 v 3.000333 h -4.9997 V 5 h -5.00021 v 3.000333 h -4.9997 V 5 h -5.00021 v 3.000333 h -5.00021 V 5 h -4.99969 v 3.000333 h -5.00022 V 5 Z m 2.99982,6.00015 H 106.99998 V 29.000085 H 36.000178 Z" />
+    <path
+       id="rect19969"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-opacity:1"
+       d="m 10.000211,37.00003 v 3.00033 H 5 v 24.00009 h 5.000211 v 2.99981 h 3.999756 v -2.99981 h 3.000334 v 2.99981 h 2.999817 v -2.99981 h 5.000211 v -5.00021 h 2.999817 v -5.00022 h -2.999817 v -3.99975 h 2.999817 v -5.00021 h -2.999817 v -4.9997 h -5.000211 v -3.00033 h -2.999817 v 3.00033 h -3.000334 v -3.00033 z" />
+    <path
+       id="rect19978"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0603021;stroke-opacity:1"
+       d="m 27.000207,94.9999 v -5.2e-4 h -0.499711 c -1.93898,0 -3.500561,-1.56056 -3.500561,-3.49952 V 86.5999 84.49977 82.39964 c 0,-0.77559 0.624322,-1.39992 1.399914,-1.39992 h 1.600419 v 2.0004 7.49928 h 1.999878 v -7.49928 l -0.999939,-0.50075 v -1.49965 h 2.999817 3.000334 v -3.99975 h -3.000334 v -5.00022 h 8.000024 v -2.99981 h 5.00022 v 2.99981 h 4.99969 v -2.99981 h 5.00021 v 2.99981 h 5.00021 v -2.99981 h 4.9997 v 2.99981 h 5.00021 v -2.99981 h 4.9997 v 2.99981 h 5.00021 v -2.99981 h 4.99969 v 2.99981 h 5.00021 v -2.99981 h 5.00021 v 2.99981 h 4.9997 v -2.99981 h 5.000212 v 2.99981 h 4.9997 v -2.99981 h 2.00039 v 2.99981 9.99991 h -0.99994 v 8.99997 h 0.99994 v 0.99994 3.00033 h -2.00039 v -3.00033 h -4.9997 v 3.00033 h -5.000212 v -3.00033 h -4.9997 v 3.00033 h -5.00021 v -3.00033 h -5.00021 v 3.00033 h -4.99969 v -3.00033 h -5.00021 v 3.00033 h -4.9997 v -3.00033 h -5.00021 v 3.00033 h -4.9997 v -3.00033 h -5.00021 v 3.00033 h -5.00021 v -3.00033 h -4.99969 v 3.00033 h -5.00022 v -3.00033 h -4.99969 v 3.00033 z m 2.999817,-8.00003 h 3.000334 v -3.00033 h -3.000334 v 0.50023 z" />
+    <path
+       id="rect19978-9"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0603021;stroke-opacity:1"
+       d="m 27.000248,123.00007 v -5.2e-4 h -0.49971 c -1.93898,0 -3.50056,-1.56056 -3.50056,-3.49952 v -4.89996 -2.10013 -2.10013 c 0,-0.77559 0.62432,-1.39992 1.39991,-1.39992 h 1.60042 v 2.0004 7.49928 h 1.99988 v -7.49928 l -0.99994,-0.50075 v -1.49965 h 2.99982 3.00033 v -3.99975 h -3.00033 v -5.00022 h 8.00002 v -2.99981 h 5.00022 v 2.99981 h 4.99969 v -2.99981 h 5.00021 v 2.99981 h 5.00021 v -2.99981 h 4.9997 v 2.99981 h 5.00021 v -2.99981 h 4.9997 v 2.99981 h 5.00021 v -2.99981 h 4.99969 v 2.99981 h 5.00021 v -2.99981 h 5.00021 v 2.99981 h 4.9997 v -2.99981 h 5.000212 v 2.99981 h 4.9997 v -2.99981 h 2.00039 v 2.99981 9.99991 h -0.99994 v 8.99997 h 0.99994 v 0.99994 3.00033 h -2.00039 v -3.00033 h -4.9997 v 3.00033 h -5.000212 v -3.00033 h -4.9997 v 3.00033 h -5.00021 v -3.00033 h -5.00021 v 3.00033 h -4.99969 v -3.00033 h -5.00021 v 3.00033 h -4.9997 v -3.00033 h -5.00021 v 3.00033 h -4.9997 v -3.00033 h -5.00021 v 3.00033 h -5.00021 v -3.00033 h -4.99969 v 3.00033 h -5.00022 v -3.00033 h -4.99969 v 3.00033 z m 2.99982,-8.00003 h 3.00033 v -3.00033 h -3.00033 v 0.50023 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.71493px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0899986;stroke-opacity:1"
+       x="33.810158"
+       y="77.92466"
+       id="text4978"><tspan
+         sodipodi:role="line"
+         id="tspan4976"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stencil;-inkscape-font-specification:Stencil;fill:#000000;fill-opacity:1;stroke-width:0.0899988"
+         x="33.810158"
+         y="77.92466">MK2 Shooting Mechanism</tspan></text>
+  </g>
+</svg>

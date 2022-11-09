@@ -27,8 +27,8 @@ The ALND will be able to detect a face, detect an open mouth, measure the distan
 - Target acquisition system (face detection).
 
 # Won't
-- Remove Herobrine.
-- make ALND platform moveable (like a tank or car).
+- Remove Herobrine ;).
+- Make ALND platform moveable (like a tank or car).
 
 # Duo project components 
 Considering we only have 5 weeks (when writing this document) we are unlikely going to create a face tracking nut canon. 

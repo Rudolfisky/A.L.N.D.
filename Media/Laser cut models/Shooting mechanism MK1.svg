@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Shooting mechanism MK1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.3986391"
+     inkscape:cx="300.64939"
+     inkscape:cy="176.95772"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2505"
+       units="mm"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="backplate"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0426107;stroke-dasharray:none"
+       d="M 17.0001,103.99966 V 107 H 8.00013 v 2.99981 H 5.00031 v 0.99994 8.00003 h 2.99982 v 2.99982 h 8.99997 v 3.00033 H 28 v -3.00033 h 5.00022 v 3.00033 h 5.00021 v -14.00018 -0.99994 -6.00015 H 33.00022 V 107 H 28 v -3.00034 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+    <path
+       id="bottom"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.611009;stroke-opacity:1"
+       d="m 8.000052,102 v -3.00033 h -2.99993 v -4.99986 h 3 v -5 h -3 v -5 h 2.99993 v -3 h 4.9997 v 3 h 5.00021 v -3 h 4.9997 v 3 h 5.00021 v -3 h 5.00021 v 3 h 4.99969 v -3 h 5.00022 v 3 h 4.99969 v -3 h 5.00021 v 3 h 5.00021 v -3 h 4.9997 v 3 h 5.00021 v -3 h 4.9997 v 3 h 5.0002 v -3 h 5.00022 v 3 h 4.9997 v -3 h 5.00021 v 3 h 4.9997 v -3 h 5.000208 v 3 h 5.00021 v -3 h 4.99969 v 3 h 5.00021 v -3 h 4.9997 v 3 h 5.00021 2.99982 v 3.00007 h -2.99982 v 0.99994 0.99994 7.00009 h 2.99982 v 2.99982 h -2.99982 -5.00021 V 102 h -4.9997 v -3.00033 h -5.00021 V 102 h -4.99969 v -3.00033 h -5.00021 V 102 h -5.000208 v -3.00033 h -4.9997 V 102 h -5.00021 v -3.00033 h -4.9997 V 102 h -5.00022 v -3.00033 h -5.0002 V 102 h -4.9997 v -3.00033 h -5.00021 V 102 h -4.9997 v -3.00033 h -5.00021 V 102 h -5.00021 v -3.00033 h -4.99969 V 102 h -5.00022 v -3.00033 h -4.99969 V 102 h -5.00021 v -3.00033 h -5.00021 V 102 h -4.9997 v -3.00033 h -5.00021 V 102 Z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       id="rect1447"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.392109;stroke-opacity:1"
+       d="m 5.000183,5 v 8.000028 H 8 V 18.00024 H 113.00031 V 29 H 8 v 8.985473 l 5,0.02905 v 2.985307 h 5.000211 V 38.014527 H 23 v 2.985306 h 5 l 2.11e-4,-2.985306 h 5.000094 L 33,40.999833 h 4.999695 L 38,38.014527 h 5 l 3.05e-4,2.985306 H 48 l -3.05e-4,-2.985306 H 53 v 2.985306 h 5.000212 v -2.985306 h 5.000048 v 2.985639 h 4.999695 V 38 H 73 l -2.08e-4,2.999833 H 78 L 78.000208,38 H 83 l -2.1e-4,2.999833 H 88 L 88.00021,38 h 4.999769 v 3.000166 H 98.00019 V 38 H 103 v 2.999833 h 5 L 107.9997,38 H 113 l -2.1e-4,2.999833 H 118 L 118.00021,38 H 123 v 2.999833 h 5.00021 V 38 h 4.99991 V 13.000028 h -5.00021 V 5 Z M 127.99973,18 h 3.00033 v 11 h -3.00033 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       id="rect1447-9"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.392109;stroke-opacity:1"
+       d="m 5.000028,42.99976 v 8.000028 H 7.999845 V 56 H 113.00015 V 66.99976 H 7.999845 v 8.985473 l 5,0.02905 v 2.985307 h 5.000211 v -2.985303 h 4.999789 v 2.985306 h 5 l 2.11e-4,-2.985306 h 5.000094 l -3.05e-4,2.985306 h 4.999695 l 3.05e-4,-2.985306 h 5 l 3.05e-4,2.985306 h 4.999695 l -3.05e-4,-2.985306 h 5.000305 v 2.985306 h 5.00021 v -2.985306 h 5.00005 v 2.985639 h 4.9997 V 75.99976 h 5.00004 l -2.1e-4,2.999833 h 5.00021 l 2.1e-4,-2.999833 h 4.99979 l -2.1e-4,2.999833 h 5.00021 l 2.1e-4,-2.999833 h 4.99977 v 3.000166 h 5.00021 V 75.99976 h 4.999805 v 2.999833 h 5 l -3e-4,-2.999833 h 5.0003 l -2.1e-4,2.999833 h 5.00021 l 2.1e-4,-2.999833 h 4.99979 v 2.999833 h 5.00021 V 75.99976 h 4.99991 V 50.999788 h -5.00021 V 42.99976 Z m 122.999542,13 h 3.00033 v 11 h -3.00033 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       id="rect2015"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0499999;stroke-opacity:1"
+       d="m 40.00019,104.00007 v 21.00027 H 43 70.99991 V 122 H 43 v -4.99969 h 2.99982 V 112.0001 H 43 v -5.00021 h 27.99991 v -2.99982 H 43 Z"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.09592px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0959985;stroke-opacity:1"
+       x="19.797598"
+       y="14.146297"
+       id="text4978"><tspan
+         sodipodi:role="line"
+         id="tspan4976"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stencil;-inkscape-font-specification:Stencil;fill:#000000;fill-opacity:1;stroke-width:0.0959987"
+         x="19.797598"
+         y="14.146297">MK1 Shooting Mechanism</tspan></text>
+  </g>
+</svg>
