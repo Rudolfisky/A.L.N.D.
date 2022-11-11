@@ -46,7 +46,7 @@ After the last iteration we decided to move away from the rubber band. After doi
 
 ![Nerf gun schematic](../Media/prototype/nerf%20gun%20insides.jpg)<br/>
 
-The Nerf guns where specifically interesting to look at. The shooting mechanism seemed reliable, replicable, and automatable.  <br/>
+The Nerf guns where specifically interesting to look at. The shooting mechanism seemed reliable, replicable, and automatable in comparison to alternative methods.  <br/>
 
 ![Nerf gun screwed open](../Media/prototype/nerf%20gun%20screwed%20open.jpg)<br/>
 
@@ -95,7 +95,7 @@ In summary.
 - Gun stand  
 
 ### Testing
-put the gifs from `../Media/prototype` here
+![MK4 test1](../Media/prototype/mk4%20test%201.mp4)
 
 ### Demo
 demo day images n such
