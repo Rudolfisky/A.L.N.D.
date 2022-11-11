@@ -67,7 +67,7 @@ This design was not without it's problems, but it definitely was a realistic des
 
 ## MK4
 ![MK4 front](../Media/prototype/MK4%20front.jpg)
-![MK4 back](../Media/prototype/MK4%20back.jpg)<br/>
+![MK4 back](../Media/prototype/MK4%20back.jpg)
 
 The MK4 is currently the last iteration of the firing mechanism and serves as tested, demo-able, and marketable device.
 
@@ -81,7 +81,7 @@ This is why we decided to design a stand that would fit on the bottom of the mec
 The cocking mechanism also had a few tweaks since the MK3.
 First of all, we changed the safety precautions that where in place in the back of the stick. We changed the hole to a more structurally sound rectangle shaped hole. Through this hole we just stuck a piece of wood.
 
-After testing the how far we could propel cocktail nuts using the current cocking mechanism hole, we realized the shear velocity would've been enough to classify the project as a weapon. so we used a saw to make a few holes to test and see what would've been optimal. Lucky for us, we only needed to make 1 extra hole to find the sweet spot.
+After testing the how far we could propel cocktail nuts using the current cocking mechanism hole, we realized the shear velocity would've been enough to classify the project as a weapon. In order to get a more reasonable velocity we tried pulling back the stick and trying out certain positions to see what would give us the best performance (between 1 and 2,5 meters).
 
 
 In summary.
@@ -95,10 +95,38 @@ In summary.
 - Gun stand  
 
 ### Testing
-![MK4 test1](../Media/prototype/mk4%20test%201.mp4)
+The testing went quite well. We first tried measuring the distance of **A.L.N.D.** by shooting it using the unmodified cocking mechanism. a we previously mentioned, it didn't go so well. After modifying the cocking mechanism to use less firing power, we got to shooting.
+
+![nut field](../Media/prototype/nut%20field.jpg)
+
+First we tried testing the accuracy of the **A.L.N.D.** by firing it a couple times and measuring the distance between points of impact.
+
+Disregarding some misfires and taking into account the inconsistency of the cocktail nuts, I'd say we did pretty good. The nuts seemed to land within a radius of about a ruler (30cm). Ideally this result would've been less the 5cm, but we have to leave room for improvement.
+
+After rigorous testing in the nut field, we decided it was time for a `live test`.
+
+![MK4 test 1](../Media/prototype/MK4%20test%201.gif)
+![MK4 test 3](../Media/prototype/MK4%20test%203.gif)
+
+while testing we shot 10 nuts at our tester. 5 where successful tests. As the tests progressed, the tester became more and more skilled at catching. This greatly improved the success rate.
+
+Sadly, the only video we have of the test being successful is the POV footage from the tester. That being said, you can see how happy we are after seeing the results.
 
 ### Demo
-demo day images n such
+![demo 1](../Media/demo/Demo%20setup%201.jpg)
+![demo 1](../Media/demo/demo%20setup%202.jpeg)
+
+The demo went really well. We managed to combine a good presentation (posters and cutouts) and the shooting mechanism. we put up some posters, used some mini displays for each iteration of the shooting mechanism, and setup a demo zone.
+
+The demo zone (can be seen on the right) consists of an almost home like atmosphere. we used marked a spot on the couch and setup a laptop with video material in order to make the user feel like they're sitting at home relaxing the time away.
+
+![GJ live demo](../Media/demo/GJ%20LD.gif)
+![live demo](../Media/demo/demo%20vid.gif)
+![live demo](../Media/demo/VID-20221104-WA0005%20fliped.gif)
+
+Most demo's weren't successful in the sense that we correctly landed a cocktail nut in a users mouth, but we definitely got great results regarding our impact. After asking people what they thought about our product we got mixed responses. One thing was very clear for all of them though, no one wanted to buy it. Most believed it was to much of an gimmick.
 
 ### MK4 conclusion
-happy, it work. sad, no electronics
+At the end of the project I realized how much time I spent on making this device. The time spent making the shooting mechanism could've been spent on other things, especially now that it turns out I didn't have enough time to realize the automation part. This meant I had done done no programming and no electronical components. 
+
+In hindsight, I'm happy with the functionality and the successful demo but sad because of the missing components.
