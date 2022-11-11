@@ -44,11 +44,11 @@ After the last iteration we decided to move away from the rubber band. After doi
 
 ### Research
 
-![Nerf gun schematic](../Media/misc/nerf)<br/>
+![Nerf gun schematic](../Media/prototype/nerf%20gun%20insides.jpg)<br/>
 
-The Nerf guns where specifically interesting to look at. Not only where the mechanism simple, but they where also easily automatable using electronics. <br/>
+The Nerf guns where specifically interesting to look at. The shooting mechanism seemed reliable, replicable, and automatable.  <br/>
 
-![Nerf gun screwed open](../Media/misc/nerf)<br/>
+![Nerf gun screwed open](../Media/prototype/nerf%20gun%20screwed%20open.jpg)<br/>
 
 After dismantling nerf guns to scavenge the the shooting mechanism, I realized they wouldn't do. The ones u had used a spring powered piston to push air into the Nerf dart, and considering the aerodynamics (or lack there of) of a cocktail nut, air simply wasn't an option. The spring powered system gave me an idea however. 
 
@@ -63,14 +63,36 @@ The hole in the back is used for pieces of wood to stop the mechanism from shoot
 Testing showed we needed to used 2 pieces for the long stick part or else the stick would break due to the amount of stress the spring would put on the little bottom notch.
 
 ### MK3 conclusion
-This design was not without it's problems, but it definitely was a realistic design. not only was it functional, it also had the ability to be automated using electronics in the future.
+This design was not without it's problems, but it definitely was a realistic design. Not only was it functional, it also had the ability to be automated using electronics in the future.
 
-# - \ / UNDER CONSTRUCTION \ /-
 ## MK4
-Fill me please
+![MK4 front](../Media/prototype/MK4%20front.jpg)
+![MK4 back](../Media/prototype/MK4%20back.jpg)<br/>
 
-### Changelog
-whats changed
+The MK4 is currently the last iteration of the firing mechanism and serves as tested, demo-able, and marketable device.
+
+### Changelog, what's changed?
+Aside from the paintjob, the most obvious changes are the modified body shape and the new stand. 
+
+The body shape was changed into a more `gun like` shape in order to prop the gun up in a 45 degree angle. This would be combined with a piece of would that would've been propped below the new ribbed under barrel. this design seemed like it would've given us a lot of flexibility/configurability with the shooting angle. After testing the ribbed under barrel we realized it was too unstable and flimsy too facilitate using the gun.
+
+This is why we decided to design a stand that would fit on the bottom of the mechanism. When combining the main shooting mechanism with the stand, one could theoretically shoot at an 45 degree angle. This new stand would prove to be a bit flimsy as well, but the major upside is the more consistent shooting angles.
+
+The cocking mechanism also had a few tweaks since the MK3.
+First of all, we changed the safety precautions that where in place in the back of the stick. We changed the hole to a more structurally sound rectangle shaped hole. Through this hole we just stuck a piece of wood.
+
+After testing the how far we could propel cocktail nuts using the current cocking mechanism hole, we realized the shear velocity would've been enough to classify the project as a weapon. so we used a saw to make a few holes to test and see what would've been optimal. Lucky for us, we only needed to make 1 extra hole to find the sweet spot.
+
+
+In summary.
+#### Body
+- Gun like body
+- Ribbed under barrel
+#### Cocking mechanism
+- Better safety
+- New notch position for optimal distance and accuracy
+#### New
+- Gun stand  
 
 ### Testing
 put the gifs from `../Media/prototype` here
