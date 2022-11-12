@@ -1,32 +1,28 @@
 # A.L.N.D. 
 Automatic Long distance Nut Dispenser (ALND)
 
-# Vision
-Humans are lazy by design, so we decided to feed our sin full desires by automating and 'simplifying' the process of eating nuts, borrelnootjes to be precise.
+# Impact
+Humans are lazy by design, so we decided to feed our sin full lazy desires by automating and 'simplifying' the process of eating nuts, cocktail nuts to be precise.
 
 # Concept
-We are making a machine that can automatically. 
-shoot nuts over a distance into the users mouth. 
-We plan to make a a canon shaped device fitted with an automatic nut feeding system. 
-The ALND will be able to detect a face, detect an open mouth, measure the distance, and shoot a singular nut right on target.
+We are making a machine that can automatically feed the user cock tail nuts over a long distance. this project is meant to satirize laziness and make people question technology and the way we apply it in our day to day lives.
 
 # Requirements
-- 
 
-# Must
+## Must
 - Semi-auto shooting mechanism.
 - Shooting activation.
 
-# Should
+## Should
 - Shooting distance control.
 - Target distance measurement.
 
-# Could
+## Could
 - Automatic reloading mechanism.
 - Platform rotation (aiming).
 - Target acquisition system (face detection).
 
-# Won't
+## Won't
 - Remove Herobrine ;).
 - Make ALND platform moveable (like a tank or car).
 
