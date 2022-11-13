@@ -7,7 +7,7 @@ When we showed our very first prototype, feedback indicated that the satirical n
 
 For our final presentation, we wanted to ensure people understood our intentions better, and hopefully make them think about the increasingly large role of technology in our lives. We decided to pretend to ‘sell’ our product, marketing it as a must-have and a truly great use of modern science. We very quickly landed on framing it as an 80s-style Telsel commercial, known for its enthusiastic overselling of incredibly niche or nearly useless items.
 
-![ALND A3 Poster](https://user-images.githubusercontent.com/9715331/201352331-0dc7d5c3-5ccb-4e22-a63c-536ce7304d4f.png)
+![ALND A3 Poster](./Media/Promo%20material/ALND%20A3%20Poster.png)
 
 We created an advertising poster in this same style, exaggerating the product’s features and framing it as a must-have item, and gave a sales pitch trying to convince the audience to purchase it. We had to make sure to strike a balance between making it straight-faced, but ridiculous enough that people would be able to understand the underlying meaning.
 
