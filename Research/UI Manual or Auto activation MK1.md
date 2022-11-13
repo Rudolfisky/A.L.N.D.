@@ -17,9 +17,8 @@ The manual system will be represented by a button. When the button is pressed we
 ### Automatic: open mouth detection
 The automatic system will be represented by activation on facial movement. When the user opens their mouth, we will proceed to imitate the activation of the ALND, which does include some more nut throwing.
 
-
-
 # Result
-
+Out of seven people queried, 100% indicated they would prefer the button press. When queried about their reasoning, people indicated they mainly feared the mouth opening activation would trigger accidentally, for example when talking or yawning. Many did like the idea of an automatic cocktail nut dispenser - even as a joke - but felt the trigger would need to be more robust. Some did suggest other options for triggers, like opening your mouth for a few seconds, or combining it with a specific gesture.
 
 # Conclusion
+While this is definitely interesting data, our project occupies a more unique space - we’re not trying to make the best possible product to launch cocktail nuts into people’s mouth, but instead want to make a point about technology being used to solve increasingly more mundane problems, supporting laziness instead of truly bettering lives. While pressing a button isn’t exactly a physically intensive action, it doesn’t quite conjure the same image of sloth as only having to open your mouth, which is why we decided to move ahead with the mouth opening activation in spite of the gathered data.

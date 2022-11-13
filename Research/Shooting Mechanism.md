@@ -17,12 +17,9 @@ With the use of quick prototyping and researching existing solutions, we came up
 ## MK1
 ![SM LF MK1](../Media/prototype/SM%20LF%20MK1.jpg)<br/>
 
-When we started on the shooting mechanism, we felt we needed to create the quickest, simplest P2P solution we possibly could. 
-<br/>
-using pre-existing knowledge of shooting mechanisms we decided to use a laser cuter and a rubber band to prototype the MK1.
-<br/>
-Since the MK1 was a very simple "top of the head" idea, it meant there were some blatant flaws. 
-<br/>
+When we started on the shooting mechanism, we felt we needed to create the quickest, simplest P2P solution we possibly could. <br/>
+using pre-existing knowledge of shooting mechanisms we decided to use a laser cuter and a rubber band to prototype the MK1.<br/>
+Since the MK1 was a very simple "top of the head" idea, it meant there were some blatant flaws. <br/>
 The rubber barely fits inside the device, let alone a cocktail nut.
 <br/>
 
@@ -36,10 +33,8 @@ This new rubber band position would help design the next iteration, the MK2.
 
 ![SM LF both2](../Media/prototype/SM%20LF%20both2.jpg)
 
-The MK2 (the one on the left) is the second iteration of the shooting mechanism. 
-<br/>
-After using the rubber band on the MK1 to hold it together, we realized that it made for a much more beneficial rubber band position. 
-<br/>
+The MK2 (the one on the left) is the second iteration of the shooting mechanism. <br/>
+After using the rubber band on the MK1 to hold it together, we realized that it made for a much more beneficial rubber band position. <br/>
 Combining that with a shorter length, and thicker width, we realized the MK2.
 
 ![SM MK2 Use](../Media/prototype/mk2%20use.jpg)<br/>
@@ -96,7 +91,7 @@ The body shape was changed into a more `gun like` shape in order to prop the gun
 <br/> After testing the ribbed under barrel we realized it was too unstable and flimsy too facilitate using the gun.
 
 This is why we decided to design a stand that would fit on the bottom of the mechanism.<br/>
- When combining the main shooting mechanism with the stand, one could theoretically shoot at an 45 degree angle.<br/>
+When combining the main shooting mechanism with the stand, one could theoretically shoot at an 45 degree angle.<br/>
 This new stand would prove to be a bit flimsy as well, but the major upside is the more consistent shooting angles.
 
 The cocking mechanism also had a few tweaks since the MK3.<br/>
@@ -104,8 +99,8 @@ First of all, we changed the safety precautions that where in place in the back 
 We changed the hole to a more structurally sound rectangle shaped hole.<br/> 
 Through this hole we just stuck a piece of wood.
 
-After testing the how far we could propel cocktail nuts using the current cocking mechanism hole, we realized the shear velocity would've been enough to classify the project as a weapon.<br/> 
-In order to get a more reasonable velocity we tried pulling back the stick and trying out certain positions to see what would give us the best performance (between 1 and 2,5 meters).
+After testing how far we could propel cocktail nuts using the current cocking mechanism hole, we realized the shear velocity would've been enough to classify the project as a weapon.<br/> 
+In order to get a more reasonable velocity we tried pulling back the stick and trying out certain positions to see what would give us the best performance, between 1 and 2,5 meters at a 45 degree angle.
 
 
 In summary.
@@ -119,38 +114,54 @@ In summary.
 - Gun stand  
 
 ### Testing
-The testing went quite well. We first tried measuring the distance of **A.L.N.D.** by shooting it using the unmodified cocking mechanism. a we previously mentioned, it didn't go so well. After modifying the cocking mechanism to use less firing power, we got to shooting.
+The testing went quite well.<br/> 
+We first tried measuring the distance of **A.L.N.D.** by shooting it using the unmodified cocking mechanism. As we previously mentioned, it didn't go so well.<br/> 
+After modifying the cocking mechanism to use less firing power, we got to shooting.
 
 ![nut field](../Media/prototype/nut%20field.jpg)
 
 First we tried testing the accuracy of the **A.L.N.D.** by firing it a couple times and measuring the distance between points of impact.
 
-Disregarding some misfires and taking into account the inconsistency of the cocktail nuts, I'd say we did pretty good. The nuts seemed to land within a radius of about a ruler (30cm). Ideally this result would've been less the 5cm, but we have to leave room for improvement.
+Disregarding some misfires and taking into account the inconsistency of the cocktail nuts, I'd say we did pretty good.<br/> 
+The nuts seemed to land within a radius of about a ruler (30cm).<br/> 
+Ideally this result would've been less the 5cm, but we have to leave room for improvement.
 
 After rigorous testing in the nut field, we decided it was time for a `live test`.
 
 ![MK4 test 1](../Media/prototype/MK4%20test%201.gif)
 ![MK4 test 3](../Media/prototype/MK4%20test%203.gif)
 
-while testing we shot 10 nuts at our tester. 5 where successful tests. As the tests progressed, the tester became more and more skilled at catching. This greatly improved the success rate.
+While testing we shot 10 nuts at our tester.<br/> 
+5 where successful tests.<br/> 
+As the tests progressed, the tester became more and more skilled at catching.<br/> 
+This greatly improved the success rate.
 
-Sadly, the only video we have of the test being successful is the POV footage from the tester. That being said, you can see how happy we are after seeing the results.
+Sadly, the only video we have of the test being successful is the POV footage from the tester.<br/> 
+That being said, you can see how happy we are after seeing the results.
 
 ### Demo
 ![demo 1](../Media/demo/Demo%20setup%201.jpg)
 ![demo 1](../Media/demo/demo%20setup%202.jpeg)
 
-The demo went really well. We managed to combine a good presentation (posters and cutouts) and the shooting mechanism. we put up some posters, used some mini displays for each iteration of the shooting mechanism, and setup a demo zone.
+The demo went really well.<br/> 
+We managed to combine a good presentation (posters and cutouts) and the shooting mechanism.<br/> 
+We put up some posters, used some mini displays for each iteration of the shooting mechanism, and setup a demo zone.
 
-The demo zone (can be seen on the right) consists of an almost home like atmosphere. we used marked a spot on the couch and setup a laptop with video material in order to make the user feel like they're sitting at home relaxing the time away.
+The demo zone (can be seen on the right) consists of an almost home like atmosphere.<br/> 
+We used marked a spot on the couch and setup a laptop with video material in order to make the user feel like they're sitting at home relaxing the time away.
 
 ![GJ live demo](../Media/demo/GJ%20LD.gif)
 ![live demo](../Media/demo/demo%20vid.gif)
 ![live demo](../Media/demo/VID-20221104-WA0005%20fliped.gif)
 
-Most demo's weren't successful in the sense that we correctly landed a cocktail nut in a users mouth, but we definitely got great results regarding our impact. After asking people what they thought about our product we got mixed responses. One thing was very clear for all of them though, no one wanted to buy it. Most believed it was to much of an gimmick.
+Most demo's weren't successful in the sense that we correctly landed a cocktail nut in a users mouth, but we definitely got great results regarding our impact.<br/> 
+After asking people what they thought about our product we got mixed responses.<br/> 
+One thing was very clear for all of them though, no one wanted to buy it.<br/> 
+Most believed it was to much of an gimmick.
 
 ### MK4 conclusion
-At the end of the project I realized how much time I spent on making this device. The time spent making the shooting mechanism could've been spent on other things, especially now that it turns out I didn't have enough time to realize the automation part. This meant I had done done no programming and no electronical components. 
+At the end of the project I realized how much time I spent on making this device.<br/> 
+The time spent making the shooting mechanism could've been spent on other things, especially now that it turns out I didn't have enough time to realize the automation part.<br/> 
+This meant I had done done no programming and no electronical components. 
 
 In hindsight, I'm happy with the functionality and the successful demo but sad because of the missing components.
