@@ -1,7 +1,9 @@
+![ALND](./Media/Promo%20material/ALND%20Drawing.png)
 # A.L.N.D. 
 Automatic Long distance Nut Dispenser (ALND)
 
 # Impact
+![ALND](./Media/Promo%20material/ALND%20Instruction%20Men.png)
 Humans are lazy by design, so we decided to feed our sin full lazy desires by automating and 'simplifying' the process of eating nuts, cocktail nuts to be precise.
 
 # Concept

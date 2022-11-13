@@ -141,7 +141,7 @@ That being said, you can see how happy we are after seeing the results.
 
 ### Demo
 ![demo 1](../Media/demo/Demo%20setup%201.jpg)
-![demo 1](../Media/demo/demo%20setup%202.jpeg)
+![demo 2](../Media/demo/demo%20setup%202.jpeg)
 
 The demo went really well.<br/> 
 We managed to combine a good presentation (posters and cutouts) and the shooting mechanism.<br/> 
@@ -152,7 +152,7 @@ We used marked a spot on the couch and setup a laptop with video material in ord
 
 ![GJ live demo](../Media/demo/GJ%20LD.gif)
 ![live demo](../Media/demo/demo%20vid.gif)
-![live demo](../Media/demo/VID-20221104-WA0005%20fliped.gif)
+![live demo 2](../Media/demo/VID-20221104-WA0005%20fliped.gif)
 
 Most demo's weren't successful in the sense that we correctly landed a cocktail nut in a users mouth, but we definitely got great results regarding our impact.<br/> 
 After asking people what they thought about our product we got mixed responses.<br/> 
