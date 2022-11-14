@@ -141,7 +141,7 @@ That being said, you can see how happy we are after seeing the results.
 
 ### Demo
 ![demo 1](../Media/demo/Demo%20setup%201.jpg)
-![demo 2](../Media/demo/demo%20setup%202.jpeg)
+![demo 2](../Media/demo/Demo%20setup%202.jpeg)
 
 The demo went really well.<br/> 
 We managed to combine a good presentation (posters and cutouts) and the shooting mechanism.<br/> 
@@ -150,9 +150,9 @@ We put up some posters, used some mini displays for each iteration of the shooti
 The demo zone (can be seen on the right) consists of an almost home like atmosphere.<br/> 
 We used marked a spot on the couch and setup a laptop with video material in order to make the user feel like they're sitting at home relaxing the time away.
 
-![GJ live demo](../Media/demo/GJ%20LD.gif)
-![live demo](../Media/demo/demo%20vid.gif)
-![live demo 2](../Media/demo/VID-20221104-WA0005%20fliped.gif)
+![GJ live demo](../Media/Demo/GJ%20LD.gif)
+![live demo](../Media/Demo/demo%20vid.gif)
+![live demo 2](../Media/Demo/VID-20221104-WA0005%20fliped.gif)
 
 Most demo's weren't successful in the sense that we correctly landed a cocktail nut in a users mouth, but we definitely got great results regarding our impact.<br/> 
 After asking people what they thought about our product we got mixed responses.<br/> 
