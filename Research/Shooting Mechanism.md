@@ -140,8 +140,8 @@ Sadly, the only video we have of the test being successful is the POV footage fr
 That being said, you can see how happy we are after seeing the results.
 
 ### Demo
-![demo 1](../Media/demo/Demo%20setup%201.jpg)
-![demo 2](../Media/demo/Demo%20setup%202.jpeg)
+![demo 1](../Media/Demo/Demo%20setup%201.jpg)
+![demo 2](../Media/Demo/Demo%20setup%202.jpeg)
 
 The demo went really well.<br/> 
 We managed to combine a good presentation (posters and cutouts) and the shooting mechanism.<br/> 
