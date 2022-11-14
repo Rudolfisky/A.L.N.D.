@@ -43,8 +43,8 @@ Combining that with a shorter length, and thicker width, we realized the MK2.
 The MK2 can manually be fired by pulling back the rubber, loading up a cocktail nut, and letting go of the rubber. Even though this process is very simple, it's still a fully functional Lo-Fi prototype that helped us in conveying our impact and researching further solutions.
 
 ## MK3
-![SM MK3 1](../Media/prototype/MK3%201.jpg)<br/>
-![SM MK3 2](../Media/prototype/MK3%202.jpg)<br/>
+![SM MK3 1](../Media/prototype/mk3%201.jpg)<br/>
+![SM MK3 2](../Media/prototype/mk3%202.jpg)<br/>
 ![SM MK3 3](../Media/prototype/MK3%203.jpg)<br/>
 
 After the last iteration we decided to move away from the rubber band. After doing some research we came up with a couple solutions like using hydraulics, pneumatics, spring powered pistons. <br/>
