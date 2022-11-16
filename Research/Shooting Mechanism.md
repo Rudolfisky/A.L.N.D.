@@ -17,8 +17,9 @@ With the use of quick prototyping and researching existing solutions, we came up
 ## MK1
 ![SM LF MK1](../Media/prototype/SM%20LF%20MK1.jpg)<br/>
 
-When we started on the shooting mechanism, we felt we needed to create the quickest, simplest P2P solution we possibly could. <br/>
-using pre-existing knowledge of shooting mechanisms we decided to use a laser cuter and a rubber band to prototype the MK1.<br/>
+When we started on the shooting mechanism, we felt we needed to create the quickest, simplest P2P solution We possibly could without doing research.<br/>
+spending a little time early in the project to achieve something with barely any research meant we could try and find creative and innovative solutions ourselves.<br/> 
+Using pre-existing knowledge of shooting mechanisms we decided to use a laser cuter and a rubber band to prototype the MK1.<br/>
 Since the MK1 was a very simple "top of the head" idea, it meant there were some blatant flaws. <br/>
 The rubber barely fits inside the device, let alone a cocktail nut.
 <br/>
